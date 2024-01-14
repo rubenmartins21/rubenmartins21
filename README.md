@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rúben Martins
 - 👀 I’m interested in frontend technologies
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working with React and Node js
 - 💞️ I’m looking to collaborate on frontend projects
 
 <!---
