@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rúben Martins
-- 👀 I’m interested in frontend technologies
+- 👀 I’m interested in web technologies
 - 🌱 I’m currently working with React and Node js
-- 💞️ I’m looking to collaborate on frontend projects
+- 💞️ I’m looking to collaborate on web projects
 
 <!---
 - 📫 How to reach me rubenmartins463@gmail.com
